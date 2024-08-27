@@ -1,2 +1,2 @@
-# Priyanka_Porfolio
+# Priyanka_porfolio.github.io
 This is my repository
